@@ -62,7 +62,6 @@ public class UpdateChecker extends AsyncTask<String, String, JSONObject> {
     @Override
     protected void onPostExecute(JSONObject jsonObject) {
         if(latestVersion!=null){
-            Toast.makeText(mContext, latestVersion+"-"+currentVersion, Toast.LENGTH_SHORT).show();
             if(!currentVersion.equalsIgnoreCase(latestVersion)){
                 if(!((Activity)mContext).isFinishing()){
                     showForceUpdateDialog();

@@ -6,8 +6,8 @@ android {
         applicationId "com.nerdgeeks.foodmap"
         minSdkVersion 14
         targetSdkVersion 27
-        versionCode 23
-        versionName "3.6"
+        versionCode 24
+        versionName "3.7"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
