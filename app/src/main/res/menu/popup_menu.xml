@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="5"
+        android:icon="@drawable/ic_five_star"
+        app:showAsAction="always"
+        />
+    <item
+        android:title="4"
+        android:icon="@drawable/ic_four_star"
+        app:showAsAction="always"
+        />
+    <item
+        android:title="3"
+        android:icon="@drawable/ic_three_star"
+        app:showAsAction="always"
+        />
+    <item
+        android:title="2"
+        android:icon="@drawable/ic_two_star"
+        app:showAsAction="always"
+        />
+    <item
+        android:title="1"
+        android:icon="@drawable/ic_one_star"
+        app:showAsAction="always"
+        />
+</menu>

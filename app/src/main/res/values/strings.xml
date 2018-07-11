@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Food Map</string>
+    <string name="title_activity_maps">Map</string>
+
+
+    <!--&lt;!&ndash; Test Admob AdsPlace ID&ndash;&gt;-->
+    <!--<string name="Banner_test">ca-app-pub-3940256099942544/63009781111</string>-->
+    <!--<string name="Interstitial_test">ca-app-pub-3940256099942544/10331737122</string>-->
+
+    <!-- NerdGeeks Admob AdsPlace ID-->
+    <string name="Banner_test">ca-app-pub-9551927371844997/7114190065</string>
+    <string name="Interstitial_test">ca-app-pub-9551927371844997/4381049666</string>
+
+    <string name="refresh">Refresh</string>
+    <string name="address_found">Address found</string>
+
+    <string name="no_address_found">Sorry, no address found</string>
+    <string name="no_location_data_provided">No location data provided</string>
+    <string name="service_not_available">Sorry, the service is not available</string>
+    <string name="invalid_lat_long_used">Invalid latitude or longitude used</string>
+    <string name="footer">Copyright © NerdGeeks 2017. All Right Reserved</string>
+
+    <string name="notif_title">Every move you make, every step you take</string>
+    <string name="notif_text">I\'ll be watching you</string>
+    <string name="title_near">Nearby Map</string>
+    <string name="title_list">List</string>
+    <string name="nerdgeeks_developer">© NerdGeeks Developer</string>
+    <string name="search">Search</string>
+
+</resources>
